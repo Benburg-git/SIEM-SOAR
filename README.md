@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cloud Threat Detection and Automated Response with Microsoft Sentinel
 
 **Client:** CloudScale Logistics (mid-market freight and supply chain, 200+ enterprise clients)
@@ -77,3 +78,7 @@ A single controlled test exercised every stage at once, using a real role assign
 | ![Data verification query](./screenshots/data-verification-query.png) Data ingestion verification query | ![Playbook](./screenshots/playbook.png) Logic App playbook workflow |
 
 Full report with architecture diagrams, the complete KQL walkthrough, and all appendices: [cloudscale-sentinel.pdf](./cloudscale-sentinel.pdf)
+=======
+# SIEM-SOAR
+ Implementing Cloud Threat Detection and Automated Response with Microsoft Sentinel
+>>>>>>> origin/main
